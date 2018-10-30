@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hui Pages
 
 You can use the [editor on GitHub](https://github.com/doris666/1030hui/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
